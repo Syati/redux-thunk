@@ -6,6 +6,5 @@ cache:
 node_js:
   - "4"
   - "5"
-  - "iojs"
 before_install:
   - npm install -g babel-cli
